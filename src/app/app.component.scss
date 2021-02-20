@@ -4,4 +4,11 @@
   display: grid;
   justify-content: center;
   align-items: center;
+
+  p {
+    max-width: 700px;
+    text-align: center;
+    line-height: 30px;
+  }
+
 }
